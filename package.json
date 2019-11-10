@@ -1,0 +1,19 @@
+{
+  "name": "parking-rot-madrid",
+  "version": "1.0.0",
+  "description": "Module to prepare data of \"Parking rotacionales de Madrid\". Info provided by: 'datos.madrid.es'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sojer23/alexaTest.git"
+  },
+  "author": "José Gallardo Gallardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sojer23/alexaTest/issues"
+  },
+  "homepage": "https://github.com/Sojer23/alexaTest#readme"
+}
